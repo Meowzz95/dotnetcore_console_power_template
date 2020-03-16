@@ -9,6 +9,6 @@
     "language": "C#",                         
     "type":"project"
   },
-  "sourceName": "ConsoleAppPowered",
+  "sourceName": "ConsoleAppPowerTemplate",
   "preferNameDirectory":true
 }
