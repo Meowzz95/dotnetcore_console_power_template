@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Meowzz95",
+  "classifications": [ "Console" ],
+  "name": "Console App Powered Template",
+  "identity": "ConsoleApp.PowerTemplate",
+  "shortName": "consolePower",                    
+  "tags": {
+    "language": "C#",                         
+    "type":"project"
+  },
+  "sourceName": "ConsoleAppPowered",
+  "preferNameDirectory":true
+}
